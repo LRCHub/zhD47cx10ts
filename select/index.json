@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "バグ",
+  "base_track": "バグ（feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン）",
   "base_artist": "25時、ナイトコードで。",
-  "createdAt": "2025-12-01T08:37:36.641165Z",
+  "createdAt": "2025-12-23T08:19:59.852111Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -13,116 +13,12 @@
       "path": "select/01_バグ_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン)_25時、ナイトコードで。.lrc"
     },
     {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "バグ",
-      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン",
-      "has_synced": true,
-      "path": "select/02_バグ_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン.lrc"
-    },
-    {
-      "id": "lrclib_3",
-      "source": "lrclib",
-      "title": "バグ -instrumental-",
-      "artist": "25時、ナイトコードで。",
-      "has_synced": true,
-      "path": "select/03_バグ_-instrumental-_25時、ナイトコードで。.lrc"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
-      "title": "バグ",
-      "artist": "Kairiki Bear",
-      "has_synced": true,
-      "path": "select/04_バグ_Kairiki_Bear.lrc"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "バグ",
-      "artist": "かいりきベア",
-      "has_synced": true,
-      "path": "select/05_バグ_かいりきベア.lrc"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "バグ",
-      "artist": "Kairikibear",
-      "has_synced": true,
-      "path": "select/06_バグ_Kairikibear.lrc"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
-      "title": "バグ - BUG",
-      "artist": "Kairiki bear",
-      "has_synced": true,
-      "path": "select/07_バグ_-_BUG_Kairiki_bear.lrc"
-    },
-    {
-      "id": "lrclib_8",
-      "source": "lrclib",
-      "title": "バグ",
-      "artist": "25時、ナイトコードで。",
-      "has_synced": true,
-      "path": "select/08_バグ_25時、ナイトコードで。.lrc"
-    },
-    {
-      "id": "lrclib_9",
-      "source": "lrclib",
-      "title": "バグ - BUG",
-      "artist": "Kairiki bear",
-      "has_synced": true,
-      "path": "select/09_バグ_-_BUG_Kairiki_bear.lrc"
-    },
-    {
-      "id": "lrclib_10",
-      "source": "lrclib",
-      "title": "Bug (English Cover)「バグ/ Project Sekai」【Will Stetson】",
-      "artist": "Will Stetson",
-      "has_synced": true,
-      "path": "select/10_Bug_(English_Cover)「バグ__Project_Sekai」【Will_Stetson】_Will_Stetson.lrc"
-    },
-    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "バグったのーみそ",
-      "artist": "神聖かまってちゃん",
+      "title": "バグ (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン)",
+      "artist": "25時、ナイトコードで。",
       "has_synced": false,
-      "path": "select/pl_01_バグったのーみそ_神聖かまってちゃん.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "バグッバイ",
-      "artist": "神聖かまってちゃん",
-      "has_synced": false,
-      "path": "select/pl_02_バグッバイ_神聖かまってちゃん.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "TЯAUMA",
-      "artist": "神聖かまってちゃん",
-      "has_synced": false,
-      "path": "select/pl_03_TЯAUMA_神聖かまってちゃん.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "BUG",
-      "artist": "神聖かまってちゃん",
-      "has_synced": false,
-      "path": "select/pl_04_BUG_神聖かまってちゃん.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "バグダッドのボディーカウント",
-      "artist": "神聖かまってちゃん",
-      "has_synced": false,
-      "path": "select/pl_05_バグダッドのボディーカウント_神聖かまってちゃん.txt"
+      "path": "select/pl_01_バグ_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン)_25時、ナイトコードで。.txt"
     }
   ]
 }
